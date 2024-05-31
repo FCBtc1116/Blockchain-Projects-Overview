@@ -15,19 +15,7 @@ ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or B
 - Github repos: 
   - backend repo: <a href="https://github.com/ArcusBTC/arcus-app">ArcusLab-Backend</a>
   - frontend repo: <a href="https://github.com/ArcusBTC/ArcusLab-FE">ArcusLab-Frontend</a>
-  
-<h3><u><strong><i>Rune Developer</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-Ordinal Genesis team support Ordinal Mint, Create Ordinal Collection, Ordinal Raffle, Rune Claiming Features. App support XVerse, Unisat and Leader Wallets so users can use any wallet. Especially used bitcoinjs lib for build app backend(swap ordinals, send rune tokens to multi users in one tx etc). Used Next.js for Frontend, Node.js for backend, Cosmos DB for database and Azure for deploy website. After publish Rune claiming website, start focus on Rune Recursive tech and trying to make another platform use that tech. This is a kind of company what uses cutting edge tech in bitcoin network. I am happy to share that I am a team member of this company and as a backend developer, built most of projects backend. Plz contact me anytime for ask any tech about bitcoin. Will help you as much as I know.
-<img align="right" width="300px" src="https://github.com/FCBtc1116/Blockchain-Projects-Overview/assets/89193350/cc9a0aef-1d8d-4029-978c-2d5a35f26ec6">
-
-
-- Live: <a href="https://ordinalgenesis.xyz/">Ordinal Genesis</a>
-- Github repos: 
-  - Rune Launchpad backend repo: <a href="https://github.com/FCBtc1116/Send-RuneToken-Multi-Address">OrdinalGenesis-RuneLaunchpad-Backend</a>
-  - Ordinal Raffle backend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-backend">OrdinalGenesis-OrindalRaffle-Backend</a>
-  - Ordinal Raffle frontend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-frontend">OrdinalGenesis-OrindalRaffle-Frontend</a>
-  
+    
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
