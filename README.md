@@ -4,7 +4,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Dogofbitcoin is a Dapp project. Users can use this platform to mint sequences, and then use the sequences to draw. You can also perform sequence recursion, rune rewriting, etc. We have deployed Rune Swap and improved security using MultiSig Wallet. We have integrated Shopify to send products to users.
+Dogofbitcoin is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Also have integrated Shopify to send products to users.
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/b4bb89dc-a09f-419c-b037-bf199906fb74">
 
 - Live: <a href="https://dogofbitcoin.com/">Dogofbitcoin</a>
