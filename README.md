@@ -2,6 +2,14 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Interest in Fractal Network and trying to make project on Fractal Network***
 
+<h3><u><strong><i>Fractal Inscribe</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+Make Inscribe on Fractal Network
+
+- Live: <a href="https://fractal-inscribe.vercel.app/">Fractal Inscribe</a>
+- Github repos: 
+  - project repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">Fractal Inscribe</a>
+
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Dogofbitcoin is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Also have integrated Shopify to send products to users.
