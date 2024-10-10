@@ -22,7 +22,7 @@ Dogofbitcoin is a Dapp project. Users can use this platform to mint ordinals, an
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault.
+ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault. Used CLTV(Control RedeemScript) for non-custodial BTC staking.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
