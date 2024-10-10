@@ -12,17 +12,15 @@ Make Inscribe on Fractal Network
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Dogofbitcoin is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Also have integrated Shopify to send products to users.
-<img align="right" width="300px" src="https://github.com/user-attachments/assets/b4bb89dc-a09f-419c-b037-bf199906fb74">
+AletheiasAgora is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Completed Non-Custodial BTC Staking use CLTV(Control RedeemScript, OPS) tech.
 
-- Live: <a href="https://dogofbitcoin.com/">Dogofbitcoin</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">DogofBitcoin-Backend</a>
-  - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">DogofBitcoin-Frontend</a>
+  - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
+  - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault. Used CLTV(Control RedeemScript) for non-custodial BTC staking.
+ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
