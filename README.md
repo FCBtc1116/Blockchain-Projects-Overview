@@ -5,6 +5,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <h3><u><strong><i>Bitcoin L1 Protocol</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Glittr is a protocol that support make Defi project on Bitcoin L1 Network. They use OP_RETURN and refer previous unconfirmed utxos for support users make Defi project on Glittr Protocol. Setup Custom Testnode use bitcoin-cli, Make Custom Bitcoin Explorer what shows(BTC, Rune, Glittr token tx info), Make Glittr SDK code etc.
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/e534fdb4-1cd9-4efc-93d9-1ac02c51db7e">
 
 - Live: <a href="https://glittr.fi/">Glittr</a>
 - Github repos: 
