@@ -2,13 +2,14 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Interest in Arch Network and trying to become pioneer of Arch Network***
 
-<h3><u><strong><i>Fractal Inscribe</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Bitcoin Developer</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Make Inscribe on Fractal Network
+Glittr is a protocol that support make Defi project on Bitcoin L1 Network. They use OP_RETURN and refer previous unconfirmed utxos for support users make Defi project on Glittr Protocol. Setup Custom Testnode use bitcoin-cli, Make Custom Bitcoin Explorer what shows(BTC, Rune, Glittr token tx info), Make Glittr SDK code etc.
 
-- Live: <a href="https://fractal-inscribe.vercel.app/">Fractal Inscribe</a>
+- Live: <a href="https://glittr.fi/">Glittr</a>
 - Github repos: 
-  - project repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">Fractal Inscribe</a>
+  - backend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer">Glittr-explorer-Backend</a>
+  - frontend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer/tree/master/views">Glittr-explorer-Frontend</a>
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
