@@ -4,7 +4,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Bitcoin L1 Protocol</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Glittr is a protocol that support make Defi project on Bitcoin L1 Network. They use OP_RETURN and refer previous unconfirmed utxos for support users make Defi project on Glittr Protocol. Setup Custom Testnode use bitcoin-cli, Make Custom Bitcoin Explorer what shows(BTC, Rune, Glittr token tx info), Make Glittr SDK code etc.
+Glittr is a protocol that supports the creation of DeFi projects on the Bitcoin Layer 1 Network. It utilizes OP_RETURN and references previous unconfirmed UTXOs to enable users to develop DeFi projects on the Glittr Protocol. My role was setting up a custom test node using bitcoin-cli, creating a custom Bitcoin explorer that displays information about BTC, Rune, and Glittr token transactions, and developing the Glittr SDK code.
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/e534fdb4-1cd9-4efc-93d9-1ac02c51db7e">
 
 - Live: <a href="https://glittr.fi/">Glittr</a>
@@ -14,7 +14,7 @@ Glittr is a protocol that support make Defi project on Bitcoin L1 Network. They 
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-AletheiasAgora is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Completed Non-Custodial BTC Staking use CLTV(Control RedeemScript, OPS) tech.
+AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology.
 
 - Github repos: 
   - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
@@ -22,7 +22,7 @@ AletheiasAgora is a Dapp project. Users can use this platform to mint ordinals, 
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault.
+ArcusLab is a Bitcoin DeFi platform where users can obtain faucet BRC20 tokens and supply or borrow BTC or BRC20 tokens with an over-collateralization ratio. I used Next.js for the frontend and Node.js for the backend, along with MongoDB for the database. Additionally, I utilized the Deep Lake API, DLC, Oracle, and Dot Swap API for liquidation and automated market making (AMM). The alpha version will soon be published on the testnet. Currently, users can only use Unisat Wallet, but in the future, support for XVerse and Leader Wallet will be added. We are also implementing a multi-signature wallet to enhance the security of the vault.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
@@ -45,7 +45,7 @@ Ordinal Genesis team support Ordinal Mint, Create Ordinal Collection, Ordinal Ra
     
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
+Munchswap is a Bitcoin ordinal multi-swap platform. Users can swap ordinals with each other or purchase using BTC. I used Next.js for the frontend and Nest.js for the backend, along with PostgreSQL for the database and Docker for DevOps. For generating Swap PSBT, I utilized the bitcoinJs library and UTXO. The platform is now live on the Bitcoin mainnet, and users can access it using Unisat, XVerse, and Leader wallets.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
 
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
