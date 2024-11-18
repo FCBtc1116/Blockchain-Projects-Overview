@@ -2,6 +2,14 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Interest in Arch Network and trying to become pioneer of Arch Network***
 
+<h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. _**Making Rune Liquidity Pool, voting system use Arch Network Now**_.
+
+- Github repos: 
+  - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
+  - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
+
 <h3><u><strong><i>Bitcoin L1 Protocol</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 Glittr is a protocol that supports the creation of DeFi projects on the Bitcoin Layer 1 Network. It utilizes OP_RETURN and references previous unconfirmed UTXOs to enable users to develop DeFi projects on the Glittr Protocol. My role was setting up a custom test node using bitcoin-cli, creating a custom Bitcoin explorer that displays information about BTC, Rune, and Glittr token transactions, and developing the Glittr SDK code.
@@ -11,14 +19,6 @@ Glittr is a protocol that supports the creation of DeFi projects on the Bitcoin 
 - Github repos: 
   - backend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer">Glittr-explorer-Backend</a>
   - frontend repo: <a href="https://github.com/FCBtc1116/BTC-RPC-Explorer/tree/master/views">Glittr-explorer-Frontend</a>
-
-<h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology.
-
-- Github repos: 
-  - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
-  - frontend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
