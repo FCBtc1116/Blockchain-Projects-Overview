@@ -4,7 +4,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. _**Making Rune Liquidity Pool, voting system use Arch Network Now**_.
+AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. <b><i>Now Making Rune Liquidity Pool, voting system on Arch Network</i></b>.
 
 - Github repos: 
   - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
