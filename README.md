@@ -2,9 +2,17 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status. ***Made Rune & Inscription Swap on Arch Network***
 
+<h3><u><strong><i>Smart Contract</i></strong></u> &nbsp;(Arch Network)</h3>
+<hr />
+Completed Several Smart Contracts on Arch Network. Rune & Rune Swap, Inscription & Rune Swap, Made Liquidity Pool, Voting System and Lucky Spin Game on Arch Network. <b><i>Several Projects will be launched will publish in soon.</i></b>
+
+- Github repos: 
+  - Smart Contract repo: <a href="https://github.com/FCBtc1116/Arch-Luck-Spin">Arch Network Smart Contracts</a>
+
+  
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. <b><i>Now Making Rune Liquidity Pool, voting system on Arch Network</i></b>.
+AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. <b><i>Made Rune Liquidity Pool, voting system on Arch Network</i></b>.
 
 - Github repos: 
   - backend repo: <a href="https://github.com/FCBtc1116/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
