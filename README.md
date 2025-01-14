@@ -4,7 +4,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Smart Contract</i></strong></u> &nbsp;(Arch Network)</h3>
 <hr />
-Completed Several Smart Contracts on Arch Network. Rune & Rune Swap, Inscription & Rune Swap, Made Liquidity Pool, Voting System and Lucky Spin Game on Arch Network. <b><i>Several Projects will be launched will publish in soon.</i></b>
+Completed Several Smart Contracts on Arch Network. Ordinal-Lending Marketplace, Rune & Rune Swap, Inscription & Rune Swap, Made Liquidity Pool, Voting System and Lucky Spin Game on Arch Network. <b><i>Several Projects will be launched will publish in soon.</i></b>
 
 - Github repos: 
   - Smart Contract repo: <a href="https://github.com/FCBtc1116/Arch-Luck-Spin">Arch Network Smart Contracts</a>
